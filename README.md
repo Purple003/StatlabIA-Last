@@ -174,7 +174,8 @@ print(f"Qualité améliorée : {report.quality_score}%")
 
 
 ### 6.5 Démonstration 6 : Génération de rapports scientifiques
-![Uploading ReportService.jpg…]()
+
+![ReportService](https://github.com/user-attachments/assets/8e2e0731-2572-4bc8-9cb8-665f0c11ca01)
 
 **Figure 4** : Template de rapport PDF avec méthodologie, résultats et interprétation
 

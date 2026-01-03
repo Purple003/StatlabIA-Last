@@ -152,14 +152,13 @@ Analyse statistique → Machine Learning → Visualisation → Export
 
 ### 6.3 Démonstration 3 : Nettoyage automatisé
 ```python
-# Exemple de pipeline de nettoyage automatisé
 pipeline = CleaningPipeline()
 pipeline.add_step(DetectMissingValues(threshold=0.05))
 pipeline.add_step(RemoveDuplicates())
 pipeline.add_step(NormalizeNumericalFeatures(method='z-score'))
 pipeline.add_step(EncodeCategoricalFeatures(encoding='one-hot'))
 
-# Exécution et rapport
+
 report = pipeline.execute(dataset)
 print(f"Qualité améliorée : {report.quality_score}%")
 ```

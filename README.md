@@ -253,7 +253,7 @@ Ce projet est distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE) po
 
 ## 📞 Contact et support
 
-- **Repository GitHub** : https://github.com/Purple003/StatLabIA
+- **Repository GitHub** : https://github.com/Purple003/StatLabIA   et  https://github.com/EttouyjerYasmine/StatLabIA
 - **Documentation technique** : [docs/](docs/)
 - **Support académique** : m.lachgar@uca.ac.ma
 - **Issue Tracker** : https://github.com/Purple003/StatLabIA/issues

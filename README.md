@@ -174,6 +174,8 @@ print(f"Qualité améliorée : {report.quality_score}%")
 
 
 ### 6.5 Démonstration 6 : Génération de rapports scientifiques
+![Uploading ReportService.jpg…]()
+
 **Figure 4** : Template de rapport PDF avec méthodologie, résultats et interprétation
 
 ## 7. Évaluation et résultats <a name="évaluation-et-résultats"></a>

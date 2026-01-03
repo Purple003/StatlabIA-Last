@@ -174,7 +174,8 @@ print(f"Qualité améliorée : {report.quality_score}%")
 
 ### 6.4 Démonstration 4 : Analyse statistique guidée
 
-![AnalysisService](https://github.com/user-attachments/assets/53698469-d06e-46e1-8e6f-9db4b1f9b4df)
+![analyse](https://github.com/user-attachments/assets/9aa265b9-aa06-4952-a04d-089f403d154c)
+
 
 
 ### 6.5 Démonstration 6 : Génération de rapports scientifiques

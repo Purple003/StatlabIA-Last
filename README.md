@@ -141,6 +141,10 @@ Analyse statistique → Machine Learning → Visualisation → Export
 ## 6. Démonstrations fonctionnelles <a name="démonstrations-fonctionnelles"></a>
 
 ### 6.1 Démonstration 1 : Interface d'administration
+
+![LoginSuccess](https://github.com/user-attachments/assets/b62b9a78-71ba-46ca-98cf-d383423f2de5)
+
+
 ![dashboard](https://github.com/user-attachments/assets/1e736927-fff3-4c4d-b17a-41d80056a780)
 
 **Figure 1** : Dashboard d'administration avec métriques en temps réel
